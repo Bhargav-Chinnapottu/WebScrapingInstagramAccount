@@ -1,0 +1,4 @@
+Problem: ['Given two int values, return their sum. Unless the two values are the same, then return double their sum.'] 
+Example: sumDouble(1, 2) → 3 
+Example: sumDouble(3, 2) → 5 
+Example: sumDouble(2, 2) → 8 

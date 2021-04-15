@@ -1,0 +1,4 @@
+Problem: ['Given a string, return true if the string starts with "hi" and false otherwise.'] 
+Example: startHi("hi there") → true 
+Example: startHi("hi") → true 
+Example: startHi("hello hi") → false 

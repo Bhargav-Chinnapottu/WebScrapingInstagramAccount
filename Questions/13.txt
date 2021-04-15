@@ -1,0 +1,4 @@
+Problem: [None] 
+Example: or35(3) → true 
+Example: or35(10) → true 
+Example: or35(8) → false 

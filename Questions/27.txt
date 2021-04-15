@@ -1,0 +1,4 @@
+Problem: ["Return true if the given string contains between 1 and 3 'e' chars."] 
+Example: stringE("Hello") → true 
+Example: stringE("Heelle") → true 
+Example: stringE("Heelele") → false 
