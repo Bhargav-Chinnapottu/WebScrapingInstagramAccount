@@ -1,4 +1,0 @@
-Problem: ['Given three int values, a b c, return the largest.'] 
-Example: intMax(1, 2, 3) → 3 
-Example: intMax(1, 3, 2) → 3 
-Example: intMax(3, 2, 1) → 3 

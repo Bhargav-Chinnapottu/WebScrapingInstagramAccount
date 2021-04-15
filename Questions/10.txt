@@ -1,4 +1,0 @@
-Problem: ['Given a string, return a new string where the first and last chars have been exchanged.'] 
-Example: frontBack("code") → "eodc" 
-Example: frontBack("a") → "a" 
-Example: frontBack("ab") → "ba" 
